@@ -1,1 +1,1 @@
-print("git허브 듣고있나요")
+print("git허브 듣고있")
